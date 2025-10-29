@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\s-A013-27\Desktop\Textmining\.venv"
+VIRTUAL_ENV="C:\Users\s-A013-27\textmining\.venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
